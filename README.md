@@ -1,2 +1,2 @@
 # Hotel
-#SQL
+It is a database application for hotel management. 
